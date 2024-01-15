@@ -79,5 +79,14 @@ public class ServerFormController {
         stage.setResizable(false);
         stage.setTitle("Client");
         stage.show();
+
+        /*AnchorPane anchorPane2 = FXMLLoader.load(this.getClass().getResource("/view/two_form.fxml"));
+        Scene scene1 = new Scene(anchorPane2);
+        Stage stage1 = new Stage();
+        stage1.setScene(scene1);
+        stage1.centerOnScreen();
+        stage1.setResizable(false);
+        stage1.setTitle("Client Two");
+        stage1.show();*/
     }
 }
