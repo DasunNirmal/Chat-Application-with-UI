@@ -17,7 +17,6 @@ import java.net.Socket;
 
 
 public class ServerFormController {
-
     @FXML
     private Button btnRunClient;
 
