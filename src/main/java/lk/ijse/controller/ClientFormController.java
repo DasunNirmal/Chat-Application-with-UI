@@ -16,7 +16,7 @@ public class ClientFormController {
     @FXML
     private TextArea txtShowMessage;
 
-    String message= "";
+    String message = "";
     DataOutputStream dataOutputStream;
     DataInputStream dataInputStream;
 
